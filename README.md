@@ -7,3 +7,6 @@ task 02	CyclicRotation (Task Score 100%, Correctness 100%, Performance 100%) fro
 
 task 03	OddOccurrencesInArray (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 2 Arrays"
 
+task 04	FrogJmp (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 3 Time Complexity"
+
+task 05	PermMissingElem (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 3 Time Complexity"
