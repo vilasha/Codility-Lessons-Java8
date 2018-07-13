@@ -10,3 +10,6 @@ task 03	OddOccurrencesInArray (Task Score 100%, Correctness 100%, Performance 10
 task 04	FrogJmp (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 3 Time Complexity"
 
 task 05	PermMissingElem (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 3 Time Complexity"
+
+task 06	TapeEquilibrium (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 3 Time Complexity"
+
