@@ -15,3 +15,4 @@ task 06	TapeEquilibrium (Task Score 100%, Correctness 100%, Performance 100%) fr
 
 task 07	PermCheck (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 4 Counting Elements"
 
+task 08	FrogRiverOne (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 4 Counting Elements"
