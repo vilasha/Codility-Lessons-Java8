@@ -18,3 +18,11 @@ task 07	PermCheck (Task Score 100%, Correctness 100%, Performance 100%) from "Le
 task 08	FrogRiverOne (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 4 Counting Elements"
 
 task 09	MissingInteger (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 4 Counting Elements"
+
+task 10	MaxCounters (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 4 Counting Elements"
+
+task 11	PassingCars (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 5 Prefix Sums"
+
+task 12	CountDiv (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 5 Prefix Sums"
+
+51 to go
