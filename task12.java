@@ -19,8 +19,10 @@
 	
 class Solution {
     /*  The number of integers divisible by K from 0 to B is (int)B/K
-        and we substract number of integers divisible by K from 0 to A
-        The only exception is when either B or A equals to 0, in this case
+        and we substract number of integers divisible by K from 0 to A.
+		As our interval is inclusive, so we substract number of divisibles
+		not up to A, but up to A-1.
+        The only exception is when B or A equals to 0, in this case
         number of divisibles in corresponding interval is 1, not 0 */
     public int solution(int A, int B, int K) {
         if (B == 0)
