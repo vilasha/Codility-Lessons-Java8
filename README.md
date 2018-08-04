@@ -35,4 +35,6 @@ task 16	MaxProductOfThree (Task Score 100%, Correctness 100%, Performance 100%) 
 
 task 17	Triangle (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 6 Sorting"
 
-46 to go
+task 18	NumberOfDiscIntersections (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 6 Sorting"
+
+45 to go
