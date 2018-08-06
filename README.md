@@ -43,4 +43,6 @@ task 20	Brackets (Task Score 100%, Correctness 100%, Performance 100%) from "Les
 
 task 21	Fish (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 7 Stacks and Queues"
 
-42 to go
+task 22	StoneWall (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 7 Stacks and Queues"
+
+25 to go
