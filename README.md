@@ -45,4 +45,8 @@ task 21	Fish (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 
 
 task 22	StoneWall (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 7 Stacks and Queues"
 
-25 to go
+task 23	Dominator (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 8 Leader"
+
+task 24	EquiLeader (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 8 Leader"
+
+23 to go
