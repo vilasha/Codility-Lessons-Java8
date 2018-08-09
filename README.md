@@ -49,4 +49,8 @@ task 23	Dominator (Task Score 100%, Correctness 100%, Performance 100%) from "Le
 
 task 24	EquiLeader (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 8 Leader"
 
-23 to go
+task 25	MaxDoubleSliceSum (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 9 Maximum slice problem"
+
+task 26	MaxProfit (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 9 Maximum slice problem"
+
+21 to go
