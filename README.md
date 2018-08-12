@@ -49,8 +49,14 @@ task 23	Dominator (Task Score 100%, Correctness 100%, Performance 100%) from "Le
 
 task 24	EquiLeader (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 8 Leader"
 
-task 25	MaxDoubleSliceSum (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 9 Maximum slice problem"
+task 25	MaxProfit (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 9 Maximum slice problem"
 
-task 26	MaxProfit (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 9 Maximum slice problem"
+task 26	MaxSliceSum (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 9 Maximum slice problem"
 
-21 to go
+task 27	MaxDoubleSliceSum (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 9 Maximum slice problem"
+
+task 28	CountFactors (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 10 Prime and composite numbers"
+
+task 29	MinPerimeterRectangle (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 10 Prime and composite numbers"
+
+18 to go
