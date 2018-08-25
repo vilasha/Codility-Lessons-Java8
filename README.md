@@ -59,4 +59,10 @@ task 28	CountFactors (Task Score 100%, Correctness 100%, Performance 100%) from 
 
 task 29	MinPerimeterRectangle (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 10 Prime and composite numbers"
 
-18 to go
+task 30	Peaks (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 10 Prime and composite numbers"
+
+task 32	NumberSolitaire (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 17 Dynamic programming"
+
+task 33	MinAbsSum (Task Score 100%, Correctness 100%, Performance 100%) from "Lesson 17 Dynamic programming"
+
+15 to go
